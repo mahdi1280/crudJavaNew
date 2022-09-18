@@ -14,4 +14,5 @@
         <mapping class="com.example.demo6.model.Product"/>
     </session-factory>
         
+        
 </hibernate-configuration>
